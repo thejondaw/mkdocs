@@ -1,0 +1,10 @@
+site_name: Jon Daw
+site_url: https://mrjondaw.github.io/mcdocs/
+theme:
+  name: material
+site_author: Jon Daw
+copyright: Jon Daw, Government of Citadel
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
